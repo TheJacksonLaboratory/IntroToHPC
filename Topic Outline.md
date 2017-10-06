@@ -9,16 +9,16 @@
      - Dev nodes
      - Storage policies	
     - Directory structure and utilization
-     - Permissions by file/directory		.5 hrs
-     - /projects
-     - /data
-     - /fastscratch
-     - /gt_delivery
-     - /home
+       - Permissions by file/directory		.5 hrs
+         - /projects
+         - /data
+         - /fastscratch
+         - /gt_delivery
+         - /home
     - Applications					.5 hrs
-     - Userspace commands
-     - Application builds
-     - Central application tree
+      - Userspace commands
+      - Application builds
+      - Central application tree
     - Proper cluster resource utilization		.5 hrs
-     - Queue templates
+      - Queue templates
 3. Questions/Comments				.25 hrs
