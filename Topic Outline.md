@@ -1,6 +1,6 @@
-1. Intro to bash						.5 hrs
+1. [Intro to bash](intro_to_bash.md)						.5 hrs
 2. Cluster Resource Overview				3 hrs
-   - Facilities Statement				.25 hrs
+   - [Facilities Statement](facilities_statement.md)				.25 hrs
    - Cluster Overview				.5 hrs
      - Login Nodes
      - Compute nodes
