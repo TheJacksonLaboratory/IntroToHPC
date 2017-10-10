@@ -1,5 +1,7 @@
 # Research IT Resources
 
+*Last Updated: 25-Sep-2017*
+
 The Information Technology (IT) platforms at JAX enable computationally intensive, high-throughput, data-rich research to be conducted with the goal of developing personalized genomic medicine methodologies and practices.   The IT team supports our infrastructure and technology platforms, and includes several dedicated Research IT personnel.  Key IT platforms are summarized below:
 
 ## HPC in Bar Harbor, ME:
