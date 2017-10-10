@@ -8,17 +8,17 @@
      - Queues
      - Dev nodes
      - Storage policies	
-    - Directory structure and utilization
+    - [Directory structure and utilization](directory_structure.md)
        - Permissions by file/directory		.5 hrs
          - /projects
          - /data
          - /fastscratch
          - /gt_delivery
          - /home
-    - Applications					.5 hrs
+    - [Applications](applications.md)					.5 hrs
       - Userspace commands
       - Application builds
       - Central application tree
-    - Proper cluster resource utilization		.5 hrs
+    - [Proper cluster resource utilization](cluster_utilization.md)		.5 hrs
       - Queue templates
-3. Questions/Comments				.25 hrs
+3. [Questions/Comments](questions_comments.md)				.25 hrs
