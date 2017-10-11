@@ -7,9 +7,10 @@
      - Specialized nodes
      - Queues
      - Dev nodes
-     - Storage policies	
-    - [Directory structure and utilization](directory_structure.md)
-       - Permissions by file/directory		.5 hrs
+    - Storage
+      - Policies
+      - [Directory structure and utilization](directory_structure.md)
+         - Permissions by file/directory		.5 hrs
          - /projects
          - /data
          - /fastscratch
