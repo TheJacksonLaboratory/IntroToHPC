@@ -20,15 +20,18 @@
 | man [command]	| Display the help information for the specified command. |
 | mkdir [options] directory	| Create a new directory. |
 | mv [options] source destination	| Rename or move file(s) or directories. |
-| passwd [name [password]]	| Change the password or allow (for the system administrator) to change any password. |
 | ps [options]	| Display a snapshot of the currently running processes. |
 | pwd	| Display the pathname for the current directory. |
 | rm [options] directory	| Remove (delete) file(s) and/or directories. |
 | rmdir [options] directory	| Delete empty directories. |
-| ssh [options] user@machine	| Remotely log in to another Linux machine, over the network. Leave an ssh session by typing exit. | |
-| su [options] [user [arguments]]	| Switch to another user account. |
+| ssh [options] user@machine	| Remotely log in to another Linux machine, over the network. Leave an ssh session by typing exit. |
 | tail [options] [filename]	| Display the last n lines of a file (the default is 10). |
 | tar [options] filename | Store and extract files from a tarfile (.tar) or tarball (.tar.gz or .tgz). |
 | top	| Displays the resources being used on your system. Press q to exit. |
 | touch filename	| Create an empty file with the specified name. |
 | who [options]	| Display who is logged on. |
+| whoami	| Display current user. |
+
+
+## Other Resources 
+* [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
