@@ -1,3 +1,4 @@
+## Common Linux Commands
 | Command | Description |
 | ------- | ----------- |
 | cat [filename] | Display file’s contents to the standard output device(usually your monitor). |
@@ -35,3 +36,4 @@
 
 ## Other Resources 
 * [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
+* [Software Carpentry - The Unix Shell](https://swcarpentry.github.io/shell-novice/)
