@@ -155,7 +155,9 @@ text.
 
 ## Development nodes
 
-text.
+| Helix Dev | Cadillac Dev |
+| ---------- | ---------- |
+| helix-dev np=48 2048GB | cadillac-dev np=56 512GB |
 
 ## Storage policies
 
