@@ -1,3 +1,9 @@
+# Abbreviations
+
+
+* np = CPU core count
+* gpu = Graphical Processing Unit
+
 # Cluster Overview
 
 ## Login Nodes
@@ -150,8 +156,7 @@
 | helix151 np=24 128GB GPU=4 | cadillac077 np=24 128GB GPU=4 |
 
 ## Queues
-
-text.
+[Queues](Queues.md)
 
 ## Development nodes
 
