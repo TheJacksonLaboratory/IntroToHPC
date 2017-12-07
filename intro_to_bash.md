@@ -37,3 +37,4 @@
 ## Other Resources 
 * [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
 * [Software Carpentry - The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+* [ExplainShell.com - Fun website for CLI explanation](https://explainshell.com)
