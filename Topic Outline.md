@@ -20,6 +20,6 @@
       - Userspace commands
       - Application builds
       - Central application tree
-    - [Proper cluster resource utilization](cluster_utilization.md)		.5 hrs
+    - [Cluster resource utilization](cluster_utilization.md)		.5 hrs
       - Queue templates
 3. [Questions/Comments](questions_comments.md)				.25 hrs
