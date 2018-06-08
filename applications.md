@@ -27,7 +27,7 @@ $ module -l avail
 
 ~~~
 - Package -----------------------------+- Versions -+- Last mod. ------
-/opt/compsci/modulefiles:
+/opt/software/helix/modulefiles:
 454/default                                          2016/07/07 13:39:48
 abacas/1.03                                          2016/04/05 15:01:20
 abyss/1.9.0                                          2016/04/05 15:04:06
@@ -234,4 +234,4 @@ $ module list
 No Modulefiles Currently Loaded.
 ~~~
 
-Applications installed as modules are located in `/opt/compsci`.  If you're unsure of a command, browse to `/opt/compsci` and look around to determine the proper command name.
+Applications installed as modules are located in `/opt/software/<cluster>`.  If you're unsure of a command, browse to `/opt/software/<cluster>` and look around to determine the proper command name.
