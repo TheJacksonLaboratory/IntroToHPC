@@ -14,7 +14,7 @@ Specialized resources associated with Cadillac include 2 nodes with 24 cores at 
 
 A development server based on the HP Proliant DL Series platform is also available with 56 cores at 2.3GHz and 512 GB RAM.
 
-Working storage (Tier 0) on Cadillac is provided by a Data Direct Networks Gridscalar GS7k GPFS storage appliance with 232 TB usable storage capacity.  The primary storage (Tier 1) on Cadillac is provided 25 Dell EMC Isilon scale-out NAS nodes combined for a total of 2.4 PB raw storage capacity.
+Working storage (Tier 0) on Cadillac is provided by a Data Direct Networks Gridscalar GS7k GPFS storage appliance with 232 TB usable storage capacity.  The primary storage (Tier 1) on Cadillac is provided 25 Dell EMC Isilon scale-out NAS nodes combined for a total of 2.4 PB raw storage capacity.  A new storage array (Tier 2) has been brought online as of Q1 2018 adding approximately 2 PB of new non-computable capacity.
 
 ## HPC in Farmington, CT:
 
@@ -26,7 +26,7 @@ Specialized resources associated with Helix include 2 nodes with 24 cores at 2.2
 
 A development server based on the HP Proliant DL Series platform is also available with 48 cores at 1.87GHz and 2,048 GB (2 TB) RAM.
 
-Working storage (Tier 0) on Helix is provided by a Data Direct Networks Gridscalar GS7k GPFS storage appliance with 522 TB usable storage capacity.  The primary storage (Tier 1) on Helix is provided 27 Dell EMC Isilon scale-out NAS nodes combined for a total of 2.7 PB raw storage capacity.
+Working storage (Tier 0) on Helix is provided by a Data Direct Networks Gridscalar GS7k GPFS storage appliance with 522 TB usable storage capacity.  The primary storage (Tier 1) on Helix is provided 27 Dell EMC Isilon scale-out NAS nodes combined for a total of 2.7 PB raw storage capacity.  A new storage array (Tier 2) has been brought online as of Q1 2018 adding approximately 2 PB of new non-computable capacity.
 
 ## Archival Storage:
 
