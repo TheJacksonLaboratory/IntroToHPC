@@ -2,7 +2,7 @@
 
 ## HPC Live
 
-[HPC Live](http://hpclive.jax.org/active.php)
+[HPC Live](https://ctgraf01.jax.org/dashboard/db/hpc-dashboard?orgId=2&refresh=5m)
 
 ## Userspace Cluster Commands
 
