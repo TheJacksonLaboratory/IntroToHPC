@@ -6,9 +6,9 @@
 	* Neil Kindlon, MS - Programmer Analyst
 	* Mingsheng Zhang, PhD - Systems Analyst - Genome Technologies
 	* David McKenzie, BS - System Administrator - Storage System Administrator
-	* John Wright, Clinical LIMS Applications
-	* Anne Deslatte Mays, Data Services
-	* Seda Arat, Data Services
 	* Jason Macklin, BA - System Engineer - High Performance Computing
 	* David Mellert, PhD - Systems Analyst - Imaging Sciences
 	* Rich Brey, BS - System Engineer - High Performance Computing
+	* John Wright, Clinical LIMS Applications
+	* Anne Deslatte Mays, Data Services
+	* Seda Arat, Data Services
