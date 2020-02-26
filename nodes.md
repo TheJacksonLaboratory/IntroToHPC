@@ -15,14 +15,14 @@
 
 | Sumner Compute | Winter Compute |
 | ------- | ----------- |
-| sumner014 np=70 768GB | winter200 np=46 192GB |
-| sumner015 np=70 768GB | winter201 np=46 192GB |
-| sumner016 np=70 768GB | winter202 np=46 192GB |
-| sumner017 np=70 768GB | winter203 np=46 192GB |
-| sumner018 np=70 768GB | winter204 np=46 192GB |
-| sumner019 np=70 768GB | winter205 np=46 192GB |
-| sumner020 np=70 768GB | winter206 np=46 192GB |
-| sumner021 np=70 768GB | winter207 np=46 192GB |
+| sumner014 np=70 768GB | winter200 np=46 192GB 4 V100 gpu |
+| sumner015 np=70 768GB | winter201 np=46 192GB 4 V100 gpu |
+| sumner016 np=70 768GB | winter202 np=46 192GB 4 V100 gpu |
+| sumner017 np=70 768GB | winter203 np=46 192GB 4 V100 gpu |
+| sumner018 np=70 768GB | winter204 np=46 192GB 4 V100 gpu |
+| sumner019 np=70 768GB | winter205 np=46 192GB 4 V100 gpu |
+| sumner020 np=70 768GB | winter206 np=46 192GB 4 V100 gpu |
+| sumner021 np=70 768GB | winter207 np=46 192GB 4 V100 gpu |
 | sumner022 np=70 768GB |
 | sumner023 np=70 768GB |
 | sumner024 np=70 768GB |
