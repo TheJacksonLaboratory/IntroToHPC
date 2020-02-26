@@ -8,9 +8,9 @@
 
 ## Login Nodes
 
-| Helix | Cadillac |
+| Sumner | Winter |
 | ------------- | ---------------- |
-| helix.jax.org | cadillac.jax.org |
+| login.sumner.jax.org | login.winter.jax.org |
 
 ## Compute nodes
 
@@ -18,12 +18,6 @@
 
 ## Queues
 [Queues](Queues.md)
-
-## Development nodes
-
-| Helix Dev | Cadillac Dev |
-| ---------- | ---------- |
-| helix-dev np=48 2048GB | cadillac-dev np=56 512GB |
 
 ## Storage policies
 
