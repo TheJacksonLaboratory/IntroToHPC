@@ -405,7 +405,7 @@ sacctmgr [<OPTION>] [<COMMAND>]
 ### Batch Queue (`batch`)
 
 * Up to 700 cores running per user, max walltime = 48 hours.
-* This queue allows users to submit a large number of medium-runtime, high-resource jobs to the Jax HPC clusters.  This queue does not allow interactivity.  Users should use interactivity available in the `interactive` queue or test their submissions on the appropriate cluster development nodes (`helix-dev.jax.org` or `cadillac-dev.jax.org`). Jobs that do not specify a queue will by default be run in the `batch` queue.
+* This queue allows users to submit a large number of medium-runtime, high-resource jobs to the Jax HPC clusters.  This queue does not allow interactivity.  Users should use interactivity available in the `interactive` queue. Jobs that do not specify a QOS will not be scheduled to run.
 
 ### Long Queue (`long`)
 
@@ -416,7 +416,7 @@ sacctmgr [<OPTION>] [<COMMAND>]
   
 * Jobs requiring greater then 512gb of memory.
 * 72 hours max walltime.
-* Please request approval to access the 'high_mem' queue via helpdesk. A cluster job ID will be required to confirm the requested access. A limited set of resources dedicated to running jobs that have memory requirements greater than 512 GB.  
+* Please request approval to access the 'high_mem' queue via helpdesk. A cluster job ID will be required to confirm the requested access. A limited set of resources dedicated to running jobs that have memory requirements greater than 7 GB.  
 
 ### GPU (`gpu`)
 
