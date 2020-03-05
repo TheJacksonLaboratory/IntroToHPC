@@ -6,6 +6,7 @@
 
 ## Userspace Cluster Commands
 
+~~~
 sacct
 Section: Slurm Commands (1)
 Updated: Slurm Commands
@@ -712,8 +713,9 @@ The default job accounting log file. By default, this file is set to read and wr
  
 SEE ALSO
 sstat(1), ps (1), srun(1), squeue(1), getrusage (2), time (2)
+~~~
 
-```
+~~~
 sacct --allocations
        JobID    JobName  Partition    Account  AllocCPUS      State ExitCode 
 ------------ ---------- ---------- ---------- ---------- ---------- -------- 
@@ -778,3 +780,4 @@ sacct --allocations
 
 ---
 sacct -u <userid> -S 2020-02-25 format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
+~~~
